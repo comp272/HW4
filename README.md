@@ -1,2 +1,2 @@
 # HW4
-Programming Assignment 4 
+COMP272 Programming Assignment 4 
